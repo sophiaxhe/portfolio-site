@@ -121,10 +121,11 @@ li{
 }
 .project-img{
   position: absolute;
-  top: 20%;
+  top: 15%;
   width: 60%;
   background: rgba(0, 0, 0, 0.5);
-  margin-left:20%;
+  left: 20%;
+  bottom: 20%;
 }
 
 h2 span {
